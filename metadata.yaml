@@ -1,0 +1,32 @@
+_repo: The-Lost-Kitty_25201
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Leslie, Madeline
+    aliases:
+    - Aunt Hattie
+    - Baker, Harriette Newell Woods
+    - Hattie, Aunt
+    birthdate: 1815
+    deathdate: 1893
+    gutenberg_agent_id: '31136'
+    url: http://www.gutenberg.org/2009/agents/31136
+    wikipedia: http://en.wikipedia.org/wiki/Harriette_Newell_Woods_Baker
+description: ''
+gutenberg_issued: '2008-04-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25201'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Gratitude -- Juvenile fiction'
+title: The Lost Kitty
+url: http://www.gutenberg.org/ebooks/25201
